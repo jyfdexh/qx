@@ -1,0 +1,7 @@
+HOST,oauthaccountmanager.googleapis.com,GV
+HOST,www.googleapis.com,GV
+HOST,gnpfesdk-pa.googleapis.com,GV
+HOST,peoplestack-pa.googleapis.com,GV
+HOST,people-pa.googleapis.com,GV
+HOST,instantmessaging-pa.googleapis.com,GV
+HOST,scone-pa.googleapis.com,GV
