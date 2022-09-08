@@ -1,4 +1,4 @@
-HOST,oauthaccountmanager.googleapis.com,GV
+HOST,oauthaccountmanager.googleapis.com/v1,GV
 HOST,www.googleapis.com,GV
 HOST,gnpfesdk-pa.googleapis.com,GV
 HOST,peoplestack-pa.googleapis.com,GV
