@@ -5,3 +5,5 @@ HOST,peoplestack-pa.googleapis.com,GV
 HOST,people-pa.googleapis.com,GV
 HOST,instantmessaging-pa.googleapis.com,GV
 HOST,scone-pa.googleapis.com,GV
+HOST,oauth2.googleapis.com,GV
+HOST,play.googleapis.com,GV
