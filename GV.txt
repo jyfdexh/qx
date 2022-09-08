@@ -1,4 +1,4 @@
-HOST,oauthaccountmanager.googleapis.com/v1,GV
+HOST,oauthaccountmanager.googleapis.com/v1/issuetoken,GV
 HOST,www.googleapis.com,GV
 HOST,gnpfesdk-pa.googleapis.com,GV
 HOST,peoplestack-pa.googleapis.com,GV
@@ -7,3 +7,7 @@ HOST,instantmessaging-pa.googleapis.com,GV
 HOST,scone-pa.googleapis.com,GV
 HOST,oauth2.googleapis.com,GV
 HOST,play.googleapis.com,GV
+USER-AGENT,GoogleVoice*,GV
+USER-AGENT,GoogleVoice**,GV
+USER-AGENT,Voice*,GV
+USER-AGENT,Voice**,GV
