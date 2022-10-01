@@ -2,10 +2,11 @@
 #联通开屏AD
 ^https?:\/\/m1\.ad\.10010\.com\/uniAdms_\d url reject
 
-^https?:\/\/p6-be-pack-sign\.pglstatp-toutiao\.com\/web\.business\.image\/ url reject
+^https?:\/\/p\d-be-pack-sign\.pglstatp-toutiao\.com\/web\.business\.image\/ url reject
+^https?:\/\/p\d-be-pack-sign\.pglstatp-toutiao\.com\/ad\.union\.api\/ url reject
 ^https?:\/\/canvas\.gdt\.qq\.com\/canvas\/ url reject
 
 
 
 #############################主机#######################
-hostname=m1.ad.10010.com, p6-be-pack-sign.pglstatp-toutiao.com, canvas.gdt.qq.com
+hostname=m1.ad.10010.com, p6-be-pack-sign.pglstatp-toutiao.com, canvas.gdt.qq.com, p3-be-pack-sign.pglstatp-toutiao.com
