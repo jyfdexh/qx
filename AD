@@ -1,8 +1,7 @@
 #############################重写#######################
 #联通开屏AD
 ^https?:\/\/m1\.ad\.10010\.com\/uniAdms_\d url reject
-#斗鱼ad
-^https?:\/\/sta-op\.douyucdn\.cn\/nggsys\/ url reject
+
 
 
 
