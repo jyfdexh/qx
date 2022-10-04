@@ -16,6 +16,7 @@ HOST,a1.tktn.be
 HOST,ocsp.sca1b.amazontrust.com
 HOST,cnt.tktn.be
 HOST,69.46.75.84/24
+HOST,205.164.56.29/24
 HOST,xmpp4.tktn.be
 HOST,bidder.criteo.com
 HOST,firebaselogging-pa.googleapis.com
