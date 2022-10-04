@@ -1,4 +1,3 @@
-HOST,a1.tktn.be
 HOST,api2.branch.io
 HOST,app.ssp.yahoo.com
 HOST,bidder.criteo.com
@@ -13,3 +12,4 @@ HOST,ow.pubmatic.com
 HOST,s.yimg.com
 HOST,sdk.ad.smaato.net
 HOST,service.cmp.oath.com
+#HOST,a1.tktn.be
