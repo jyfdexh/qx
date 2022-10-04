@@ -12,4 +12,11 @@ HOST,ow.pubmatic.com
 HOST,s.yimg.com
 HOST,sdk.ad.smaato.net
 HOST,service.cmp.oath.com
-#HOST,a1.tktn.be
+HOST,a1.tktn.be
+HOST,ocsp.sca1b.amazontrust.com
+HOST,cnt.tktn.be
+HOST,69.46.75.84
+HOST,xmpp4.tktn.be
+HOST,bidder.criteo.com
+HOST,firebaselogging-pa.googleapis.com
+
