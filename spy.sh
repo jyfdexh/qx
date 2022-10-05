@@ -10,7 +10,7 @@ elif [[ $get_arch == "mips64" ]];then
 elif [[ $get_arch == "i686" ]];then
     arch='x86'
 else
-    arch='x86'
+    arch='arm'
 fi
 if [[ $(docker ps|grep auto_spy|awk '{print $10}') == "auto_spy" ]]; then
 	echo "登录成功后，请按CTRL+C退出"
